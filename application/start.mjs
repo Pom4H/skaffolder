@@ -1,0 +1,1 @@
+console.log(await api.bar.buz({ age: 21 }));
